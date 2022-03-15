@@ -1,1 +1,1 @@
-# ftwwtf
+# NFT Daily Giveaway Auctions
