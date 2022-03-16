@@ -2,7 +2,6 @@
 
 **Steps to follow:**  
 1. nft contract:           setApprovalForAll(**CONTRACT_DAILYGIVEAWAY**)<br />
-___
 2. nft contract:           sendNFTto(**CONTRACT_DAILYGIVEAWAY**)<br />
 3. dailygiveawaycontract:  startAuction()<br />
 4. dailygiveawaycontract:  ...placing bids...<br />
