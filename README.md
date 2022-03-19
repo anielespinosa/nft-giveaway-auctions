@@ -10,3 +10,5 @@
 7. dailygiveawaycontract:  randomDailyWinner()<br />
 8. dailygiveawaycontract:  sendRewardsDailyWinner()<br />
 **repeat from 2.**<br />
+
+**Note: addresses used in these files are test wallets with testnet ETH**
